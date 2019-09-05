@@ -1,0 +1,14 @@
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\bin\Debug\netcoreapp2.2\EmployeeManagementApi.deps.json
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\bin\Debug\netcoreapp2.2\EmployeeManagementApi.runtimeconfig.json
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\bin\Debug\netcoreapp2.2\EmployeeManagementApi.runtimeconfig.dev.json
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\bin\Debug\netcoreapp2.2\EmployeeManagementApi.dll
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\bin\Debug\netcoreapp2.2\EmployeeManagementApi.pdb
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.csprojAssemblyReference.cache
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.RazorAssemblyInfo.cache
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.RazorAssemblyInfo.cs
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.AssemblyInfoInputs.cache
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.AssemblyInfo.cs
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.RazorTargetAssemblyInfo.cache
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.dll
+C:\Users\rtiwari\source\repos\EmployeeManagementApi\EmployeeManagementApi\obj\Debug\netcoreapp2.2\EmployeeManagementApi.pdb
